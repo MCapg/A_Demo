@@ -1,7 +1,7 @@
 # A_Demo
 DemoGit
 
-Hello le monde entier
+Hello les amis
 
 Hello depuis GIT Hub
 
